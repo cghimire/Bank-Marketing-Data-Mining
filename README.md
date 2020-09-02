@@ -40,9 +40,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## 🎈 Data Understanding and Exploring <a name="data_understanding_and_exploring"></a>
 
-## 🎈 Usage <a name="usage"></a>
-Add notes about how to use the system.
-
 ## 🚀 Deployment <a name = "deployment"></a>
 Add additional notes about how to deploy this on a live system.
 
