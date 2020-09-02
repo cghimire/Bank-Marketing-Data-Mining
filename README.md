@@ -24,7 +24,7 @@ bank long-term deposit. A Portuguese retail bank was collected customer data fro
 ## 📝 Table of Contents
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Data Understanding and Exploring](#data-understanding-and-exploring)
+- [Data Understanding and Exploring](#data_understanding_and_exploring)
 - [Data Modeling](#data-modeling)
 - [Model Evaluation and Conclusion](#model-evaluation-and-conclusion)
 - [Authors](#authors)
@@ -38,7 +38,7 @@ The objective of this data analysis project is to demonstrate how the classifica
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
-## 🎈 Data Understanding and Exploring
+## 🎈 Data Understanding and Exploring <a name="data_understanding_and_exploring"></a>
 
 ## 🎈 Usage <a name="usage"></a>
 Add notes about how to use the system.
