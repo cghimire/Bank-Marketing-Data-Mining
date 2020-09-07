@@ -7,8 +7,6 @@
 
 <div align="center">
 
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
- 
 </div>
 
 ---
@@ -20,11 +18,10 @@ bank long-term deposit. A Portuguese retail bank was collected customer data fro
 
 ## 📝 Table of Contents
 - [About](#about)
-- [Getting Started](#getting_started)
 - [Data Understanding and Exploring](#data_understanding_and_exploring)
+- [Data Preparation](#data-preparation)
 - [Data Modeling](#data-modeling)
 - [Model Evaluation and Conclusion](#model-evaluation-and-conclusion)
-- [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
@@ -37,16 +34,27 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## 🎈 Data Understanding and Exploring <a name="data_understanding_and_exploring"></a>
 
-## 🚀 Deployment <a name = "deployment"></a>
-Add additional notes about how to deploy this on a live system.
+![alt text](https://github.com/cghimire/Bank-Marketing-Data-Mining/blob/master/Figures/Correlation_3.png "Correlation Plot")
 
-## ⛏️ Built Using <a name = "built_using"></a>
+*This plot demonstrates the correlation between different variables. There is no strong relation between predictors and predicted variable y, however, there is some relationship between predictor variable duration and predicted output y*.
+![alt text](https://raw.githubusercontent.com/cghimire/Bank-Marketing-Data-Mining/master/Figures/Job_barplot.png "Job bar plot")
+
+*This plot shows the number of clients Vs job category. The highest number of clients are from the job category "admin" followed by blue-color category. Similarly,
+there are less students involved in the telemarketing campaign*.
+
+## ⛏️ Data Preparation <a name = "data-preparation"></a>
+
+![alt text](https://github.com/cghimire/Bank-Marketing-Data-Mining/blob/master/Figures/RemoveOutlier_%20campaignVariable.png "Outlier before and after")
+
+*This figure compares the two different plots with outliers and without outliers*.
+
+## ⛏️ Data Modeling <a name = "data_modeling"></a>
 - [MongoDB](https://www.mongodb.com/) - Database
 - [Express](https://expressjs.com/) - Server Framework
 - [VueJs](https://vuejs.org/) - Web Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
-
+🚀
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
