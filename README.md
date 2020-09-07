@@ -61,5 +61,5 @@ I used decision tree, SVM , and Random Forest algorithm to model the data
 *This figure shows Effect of increasing tree count on accuracy in Random Forest Model*.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Inspiration
-- References
+I would like to thank some special peoples who helped me a lot on this project.My terrific professor, Dr. Xinlian Liu, encouraged me to start this
+project. His ideas and suggestions are always valuable for me not only for this project but also for my further career in data science. Finally, I am very thankful to my entire CS 522- Data Mining class for their feedback and encouragement.
