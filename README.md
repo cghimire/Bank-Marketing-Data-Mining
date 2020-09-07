@@ -50,9 +50,18 @@ there are less students involved in the telemarketing campaign*.
 
 ## 🚀 Data Modeling <a name = "data-modeling"></a>
 
+I used decision tree, SVM , and Random Forest algorithm to model the data
+
 ![alt text](https://github.com/cghimire/Bank-Marketing-Data-Mining/blob/master/Figures/Decision%20Tree_final.png "Decision Tree")
 
+
 *This figure represents the decision tree structure. For example, If number of employed is greater than 5088, then that client belongs to NO category with 94% of probability: that means the client is more likely to say NO*.
+
+## Model Evaluation and Conclusion <a name = "model-evaluation-and-conclusion"></a>
+
+![alt text](https://github.com/cghimire/Bank-Marketing-Data-Mining/blob/master/Figures/AccuracyVsTreeSize.png "Accuracy Vs Treesize")
+
+*This figure shows Effect of increasing tree count on accuracy in Random Forest Model*.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Inspiration
