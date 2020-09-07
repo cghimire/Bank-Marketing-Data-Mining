@@ -29,9 +29,6 @@ This project aims to build a suitable model to recommend the best model because 
 
 The objective of this data analysis project is to demonstrate how the classification and predictive analytics study can be applied to produce real, tangible improvements in a company’s business performance. 
 
-## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
-
 ## 🎈 Data Understanding and Exploring <a name="data_understanding_and_exploring"></a>
 
 ![alt text](https://github.com/cghimire/Bank-Marketing-Data-Mining/blob/master/Figures/Correlation_3.png "Correlation Plot")
